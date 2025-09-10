@@ -1,9 +1,12 @@
-🩺 Breast Cancer Detection using Decision Tree
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Decision%20Tree-brightgreen?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+<h1 align="center">🔬 Breast Cancer Detection using Decision Tree & Machine Learning 🧠</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Accuracy-99.12%25-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
@@ -190,8 +193,6 @@ Compared:
 
 ---
 
----
-
 ## 🧪 **Model Performance**
 | Metric | Score |
 |--------|--------|
@@ -202,15 +203,12 @@ Compared:
 
 ---
 
-## 📷 **Sample Output Graphs**
-| Confusion Matrix | ROC Curve | Feature Importance |
-|------------------|-----------|---------------------|
-| ![Confusion Matrix](assets/confusion_matrix.png) | ![ROC Curve](assets/roc_curve.png) | ![Feature Importance](assets/feature_importance.png) |
+## ✍️ **Author**
+
+**Priyanshu Taria**  
+🎓 Graduate **B.Tech — Computer Science & Engineering**  
+🏫 **Gandhi Institute of Engineering & Technology University (GIETU), Odisha**  
+📧 **Email:** [priyanshutaria7327@gmail.com](mailto:priyanshutaria7327@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/er-priyanshu-taria-055774283](https://www.linkedin.com/in/er-priyanshu-taria-055774283)
 
 ---
-
-## 🚀 **How to Run the Project**
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/Breast-Cancer-Decision-Tree.git
-cd Breast-Cancer-Decision-Tree
